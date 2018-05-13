@@ -6,8 +6,6 @@ public class RandomLetterChooser extends RandomStringChooser
   {
    
       super(getSingleLetters(str));
-      
-      
   }
 
   /************/
